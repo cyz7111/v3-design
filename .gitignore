@@ -8,6 +8,7 @@ examples/pages/en-US
 examples/pages/zh-CN
 examples/pages/es
 examples/pages/fr-FR
+packages/components/node_modules
 fe.element/element-ui
 coverage
 

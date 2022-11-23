@@ -1,1 +1,24 @@
-{}
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "F:\\myself\\v3-design"
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: ins",
+      "code": "ENOENT",
+      "stack": "Error: not found: ins\n    at getNotFoundError (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:41677:51)\n    at Function.whichSync [as sync] (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:41754:13)\n    at getCommandAbsolutePathSync (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:43319:44)\n    at default_1 (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:43328:32)\n    at D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:172149:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "F:\\myself\\v3-design",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: ins",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: ins\n    at getNotFoundError (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:41677:51)\n    at Function.whichSync [as sync] (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:41754:13)\n    at getCommandAbsolutePathSync (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:43319:44)\n    at default_1 (D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:43328:32)\n    at D:\\Program Files\\nodejs\\node_global\\node_modules\\pnpm\\dist\\pnpm.cjs:172149:39"
+    }
+  }
+}
