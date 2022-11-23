@@ -2,6 +2,7 @@
 node_modules
 dist
 lib
+es
 examples/element-ui
 examples/node_modules
 examples/pages/en-US

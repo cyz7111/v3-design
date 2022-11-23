@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
     "less": "^4.1.3",

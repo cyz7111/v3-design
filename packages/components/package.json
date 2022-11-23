@@ -2,14 +2,20 @@
   "name": "@v3-design/components",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "lib/index.js",
+  "module":"es/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vite build"
   },
-  "keywords": [],
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "v3-design",
+    "vue3组件库"
+  ],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "@v3-design/utils": "workspace:^1.0.0"
-  }
+  "typings": "lib/index.d.ts"
 }

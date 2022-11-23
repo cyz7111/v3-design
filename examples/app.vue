@@ -6,6 +6,5 @@
     </div>
 </template>
 <script lang="ts" setup>
-// import { V3Button } from '../packages/components';
 import  {V3Button,V3Icon} from '@v3-design/components'
 </script>
