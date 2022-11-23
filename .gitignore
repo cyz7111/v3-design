@@ -1,5 +1,4 @@
 .DS_Store
-/node_modules/*
 node_modules
 dist
 lib
@@ -27,6 +26,7 @@ lerna-debug.log.*
 .vscode
 .envrc
 .npmrc
+.pnpm-debug.log
 *.suo
 *.ntvs*
 *.njsproj
