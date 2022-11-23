@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "v3-design": "workspace:^1.0.0"
+    "@v3-design/components": "workspace:^1.0.0"
   }
 }
